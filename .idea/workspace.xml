@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26f31afe-1ff1-46b3-ab27-db84a4a83188" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/dao/userDao.js" afterPath="$PROJECT_DIR$/server/dao/userDao.js" />
-    </list>
+    <list default="true" id="26f31afe-1ff1-46b3-ab27-db84a4a83188" name="Default" comment="" />
     <ignored path="admin4n.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -292,12 +290,12 @@
       <workItem from="1488530726607" duration="1129000" />
       <workItem from="1488531959359" duration="711000" />
       <workItem from="1489050385089" duration="606000" />
-      <workItem from="1490271869825" duration="3013000" />
+      <workItem from="1490271869825" duration="3276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5459000" />
+    <option name="totallyTimeSpent" value="5722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
